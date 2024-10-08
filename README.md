@@ -1,4 +1,4 @@
-These are the scripts that were used to build Time Turned, a multi-year game project that has been published on Steam here: https://store.steampowered.com/app/2877110/Time_Turned/
+These are the scripts that were used to create Time Turned, a multi-year game project that has been published on Steam here: https://store.steampowered.com/app/2877110/Time_Turned/
 I (Wyatt Senalik) led the development team and wrote the majority of the code among other things.
 
 These are meant to be used as reference for assertaining if I (Wyatt Senalik) meet your desired competency in architecting and programming for a large, multi-year project.
