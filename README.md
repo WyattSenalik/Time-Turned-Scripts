@@ -11,3 +11,5 @@ https://github.com/WyattSenalik/Time-Turned-Scripts/blob/main/Scripts/Timed/Time
 https://github.com/WyattSenalik/Time-Turned-Scripts/blob/main/Scripts/Timed/TimedVariable/TimedVariable.cs
 https://github.com/WyattSenalik/Time-Turned-Scripts/blob/main/Scripts/Timed/TimedVariable/Implementations/TimedInt.cs
 https://github.com/WyattSenalik/Time-Turned-Scripts/blob/main/Scripts/Timed/TimedComponentImplementations/IntTransform/TimedIntTransform.cs
+
+View my full portfolio here: https://wsenalik6.wixsite.com/portfolio/portfolio
